@@ -9,7 +9,6 @@
 
 **Быстрая накрутка просмотров для Teletype.in через Chrome браузер**
 
-
 </div>
 
 ## 📋 Описание
@@ -27,9 +26,8 @@
 
 ## 🖼️ Скриншот интерфейса
 
-> **📸 Вставьте скриншот GUI здесь**
-> 
-> Покажите пользователям, как выглядит интерфейс приложения
+<img width="1920" height="1053" alt="изображение" src="https://github.com/user-attachments/assets/0d1ebd79-4e1d-4289-8d0b-89ebd68cd165" />
+
 
 ## 🚀 Быстрый старт
 
@@ -143,7 +141,7 @@ python xillen_teletype_booster_pro.py
 
 **@BengaminButton**
 
-- 🌐 **GitHub:** [github.com/BengaminButton](https://github.com/BengaminButton)
+- 🌐 **WebSite:** [benjaminbutton.ru/](https://benjaminbutton.ru/)
 - 💬 **Telegram:** [t.me/Bengamin_Button](https://t.me/Bengamin_Button)
 - 📢 **Канал:** [t.me/XillenAdapter](https://t.me/XillenAdapter)
 
