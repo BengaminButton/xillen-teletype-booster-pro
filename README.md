@@ -9,7 +9,6 @@
 
 **Быстрая накрутка просмотров для Teletype.in через Chrome браузер**
 
-[![Screenshot GUI](https://via.placeholder.com/800x600/0d1117/ffffff?text=SCREENSHOT_GUI_HERE)](https://github.com/BengaminButton/xillen-teletype-booster-pro)
 
 </div>
 
